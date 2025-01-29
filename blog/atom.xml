@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://seolleung2.github.io/dev-docs/blog</id>
-    <title>Mook's Dev Docs Blog</title>
+    <title>Mook's Devlog Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://seolleung2.github.io/dev-docs/blog"/>
-    <subtitle>Mook's Dev Docs Blog</subtitle>
+    <subtitle>Mook's Devlog Blog</subtitle>
     <icon>https://seolleung2.github.io/dev-docs/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
