@@ -1,9 +1,12 @@
 name: Deploy to GitHub Pages
 
 on:
+  pull_request:
+    branches:
+      - prod
   push:
     branches:
-      - prod # prod 브랜치에서 배포
+      - prod 
 
 jobs:
   deploy:
